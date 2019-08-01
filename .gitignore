@@ -1,0 +1,11 @@
+node_modules
+public/assets
+public/landing
+public/template
+public/invoice
+npm-debug.log
+.DS_Store
+/*.env
+logs
+*.log
+intl/src
