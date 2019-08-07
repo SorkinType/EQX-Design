@@ -1,24 +1,37 @@
-├── Tester Login
-│	├── Available Tests
-│	└── Your Profile
+
+├── Homepage (What is EQX and how do I login?)
 │
-├── Creator Login
-│	├── Published Tests
-│	├── Create a Test
+├── User Login
+│	├── Dashboard
 │	├── Available Tests
-│	├── Manage Team
-│	└── Your Profile
+│	│	├── Questions
+│	│	└── Test Summary
+│	│	
+│	├── Shared Tests
+│	│	├── Members
+│	│	├── Questions
+│	│	└── Test Summary
+│	│	
+│	├── Manage Projects / Create a Test
+│	│	└── Past Projects / Create Project
+│	│		├── Attach Fonts
+│	│		├── Attach Metadata
+│	│		├── Attach Tags
+│	│		├── Members
+│	│		└── Create / Manage a Test
+│	│			├── Members
+│	│			├── Create Questions
+│	│			│	├── Add Question / Text
+│	│			│	└── Create Visuals
+│	│			└── Test Summary
+│	│	
+│	├── Manage Teams/Organizations
+│	└── Your Settings
 │
-├── Homepage (What is EQX)
 ├── Contact
 ├── Developers (Follow us on Github)
-├── Policies
-│	├── Terms of Use 
-│	└── Privacy Policy
-│
-│
-│
-└── Keystone Login
-	└── Admin Access
+└── Policies
+	├── Terms of Use 
+	└── Privacy Policy
 
 
